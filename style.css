@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.game-container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+button {
+    margin: 5px;
+}
